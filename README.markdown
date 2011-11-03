@@ -5,7 +5,7 @@ A color schemes for the [JetBrains PyCharm](http://www.jetbrains.com/pycharm/) -
 
 ## Preview
 
-![darkblue-schemes](https://github.com/SilentSokolov/darkblue-schemes/blob/master/darkblue-schemes.png)
+![darkblue-schemes](https://github.com/SilentSokolov/darkblue-schemes/raw/master/darkblue-schemes.png)
 
 
 # Installation
